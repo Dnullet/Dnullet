@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dnullet. 
-- 👀 I’m interested in genral information technology, application development, and website development. 
-- 🌱 I’m currently learning HTML, CSS, Javascript. Currently, just scratching the surface, but looking forward to what's ahead. 
+
 
 <!---
 Dnullet/Dnullet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
